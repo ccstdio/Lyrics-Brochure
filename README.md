@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to repository for Lyrics Brochure 👋</h1>
+<h1 align="center">Welcome to Repository for Lyrics Brochure 👋</h1>
 
 English | [简体中文](zh.md)
 
@@ -40,7 +40,7 @@ Files:
 
 You can get files from:
 
-- GitHub [Releases](https://github.com/ccstdio/Lyrics-Brochure/releases) | Gitee 发行版
+- GitHub [Releases](https://github.com/ccstdio/Lyrics-Brochure/releases) | Gitee [发行版](https://gitee.com/MPXCreator/Lyrics-Brochure/releases) (Due to gitee's attachment size limit, only digital brochures are uploaded.)
 - [阿里网盘](https://www.aliyundrive.com/s/8pzStAggiLJ) (Because its sharing function is still in the development stage, the shared audio files may not be visible for the time being. But here are some other relevant files.)
 - [百度网盘](https://pan.baidu.com/s/1ZNR92kofkXpl1lhghf3GCw) & key: `fwj5`
 
