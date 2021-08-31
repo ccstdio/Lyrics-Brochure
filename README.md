@@ -34,14 +34,14 @@ Files:
 - `song.*`: Music files of all songs (most of them are normal lossless, and a few of them are lower quality or high-resolution lossless, with the highest specification: Hi-Res 96KHz 24bit)
 - `document.*`: Digital brochures
   - [LB.pdf](doc/LB.pdf): colorful limited edition brochure for Class 6/14 of 2019 & Hinuo
-  - [LB(Universal).pdf](document/LB(Universal).pdf): colorful universal brochure
+  - [LB(Universal).pdf](doc/LB(Universal).pdf): colorful universal brochure
   - [BW.pdf](doc/BW.pdf): gray limited edition brochure for Class 6/14 of 2019 & Hinuo
   - [BW(Universal).pdf](doc/BW(Universal).pdf): gray universal brochure
 
 You can get files from:
 
-- GitHub [Releases](https://github.com/ccstdio/Lyrics-Brochure/releases) | Gitee [发行版](https://gitee.com/MPXCreator/Lyrics-Brochure/releases) (Due to gitee's attachment size limit, only digital brochures are uploaded.)
-- [阿里网盘](https://www.aliyundrive.com/s/8pzStAggiLJ) (Because its sharing function is still in the development stage, the shared audio files may not be visible for the time being. But here are some other relevant files.)
+- GitHub [Releases](https://github.com/ccstdio/Lyrics-Brochure/releases) (recommended) | Gitee [发行版](https://gitee.com/MPXCreator/Lyrics-Brochure/releases) (Due to Gitee's attachment size limit, only digital brochures are uploaded.)
+- [阿里云盘](https://www.aliyundrive.com/s/8pzStAggiLJ) (Because its sharing function is still in the development stage, the shared audio files may not be visible for the time being. But here are some other relevant files.)
 - [百度网盘](https://pan.baidu.com/s/1ZNR92kofkXpl1lhghf3GCw) & key: `fwj5`
 
 ## 🤝 Other
