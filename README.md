@@ -41,7 +41,7 @@ Files:
 You can get files from:
 
 - GitHub [Releases](https://github.com/ccstdio/Lyrics-Brochure/releases) (recommended) | Gitee [发行版](https://gitee.com/MPXCreator/Lyrics-Brochure/releases) (Due to Gitee's attachment size limit, only digital brochures are uploaded.)
-- [阿里云盘](https://www.aliyundrive.com/s/8pzStAggiLJ) (Because its sharing function is still in the development stage, the shared audio files may not be visible for the time being. But here are some other relevant files.)
+- [阿里云盘](https://www.aliyundrive.com/s/8pzStAggiLJ) (Because its sharing function is still in the development stage, the shared audio files may not be visible for the time being. But here are some other relevant files. If you don't have an account, you can register through this [link](https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=90e42d1) (you can get 500GB free space).)
 - [百度网盘](https://pan.baidu.com/s/1ZNR92kofkXpl1lhghf3GCw) & key: `fwj5`
 
 ## 🤝 Other
